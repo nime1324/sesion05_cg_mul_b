@@ -1,3 +1,6 @@
+
+import java.util.Scanner;
+
 public class Main
 {
 	public static void main(String[] args) {
@@ -5,7 +8,12 @@ public class Main
 		// Solicite al usuario ingresar el valor de un vector de traslación 
 		// Aplique el vector de traslación anterior a cada uno de los objetos referidos
 		// Muestre las posiciones originales y finales de cada uno de los objetos referidos
-		
+		System. out.println("i");
+                System.out.println("x");
+                canner entrada = new Scanner(System.in);
+                x +entrada.NextInt();
+                system.out.printInt():
+                y= entrada.nextInt();
 	}
 }
 
